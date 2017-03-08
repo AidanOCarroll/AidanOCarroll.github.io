@@ -11,6 +11,5 @@
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1fqiJY0EGUYCfEQZu3SnF0piOkIx9M0NuhCCNH3qOmmI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 <h1>Links to Other Work</h1>
 [I'm an inline-style link](https://aidanocarroll.github.io/Rio.html)
-
-</html>
 </body>
+</html>
