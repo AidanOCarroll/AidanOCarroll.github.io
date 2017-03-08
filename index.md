@@ -19,6 +19,6 @@
 
 
 <h1>Links to Other Work</h1>
-[This is a timeline of the Rio Olympics] (https://aidanocarroll.github.io/Rio.html)
+[This is a timeline of the Rio Olympics](https://aidanocarroll.github.io/Rio.html)
 </body>
 </html>
