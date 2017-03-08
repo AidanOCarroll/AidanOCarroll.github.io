@@ -1,5 +1,3 @@
-<html>
-<body>
 <h1> Hello World </h1>
 <p> I'm hosted with Github Pages </p>
 <h1>We'll be Fine</h1> 
@@ -20,5 +18,3 @@
 
 <h1>Links to Other Work</h1>
 [This is a timeline of the Rio Olympics](https://aidanocarroll.github.io/Rio.html)
-</body>
-</html>
